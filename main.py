@@ -32,7 +32,7 @@ menu_principal()
 print("Gracias por visitar!!!!!")
 
 
-
+print("Gracias")
 
 
 print("Gracias por visitar nuestra tienda virtual")
